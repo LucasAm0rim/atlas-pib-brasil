@@ -7,7 +7,7 @@
 
 > A premium macroeconomic dashboard designed to translate quarterly GDP data into a clear executive narrative through visual hierarchy, sector analysis, and presentation-ready storytelling.
 
-![Project Cover](./public/github-cover.svg)
+<img width="1407" height="800" alt="Captura de tela 2026-03-21 204054" src="https://github.com/user-attachments/assets/88f7ce1c-d076-4060-8d42-44074ea17c2f" />
 
 ---
 
@@ -29,6 +29,8 @@ Instead of treating the dashboard as a generic analytics screen, the interface w
 ## Design Direction
 
 This project was built with strong emphasis on visual restraint, readability, and proportion.
+<img width="1413" height="801" alt="image" src="https://github.com/user-attachments/assets/b5fb6743-e89b-4992-ae05-7435f553cfb2" />
+
 
 ### UX Principles
 
@@ -176,52 +178,3 @@ npm run build
 npm run preview
 ```
 
----
-
-## Deploy
-
-The project is already configured for GitHub Pages through GitHub Actions.
-
-### Required Steps
-
-1. Push the repository to GitHub
-2. Open `Settings`
-3. Go to `Pages`
-4. Set `Build and deployment` to `GitHub Actions`
-
-After that, every push to `main` will trigger a new deploy.
-
----
-
-## What This Project Demonstrates
-
-- Strong frontend composition and visual hierarchy
-- Product thinking beyond generic dashboard templates
-- Ability to turn raw data into a polished presentation layer
-- Clean React structure for scalable interface work
-- Attention to detail in both UI and repository presentation
-
----
-
-## Repository Presentation Tips
-
-For the GitHub repository itself, a strong short description would be:
-
-> Executive dashboard for Brazilian GDP analysis with premium UI, sector comparison, and presentation-ready macro storytelling.
-
-Suggested topics:
-
-- `react`
-- `vite`
-- `dashboard`
-- `macroeconomics`
-- `recharts`
-- `frontend`
-- `data-visualization`
-- `portfolio-project`
-
----
-
-## Author
-
-Built as a portfolio-ready frontend project focused on design quality, analytical storytelling, and premium presentation.
